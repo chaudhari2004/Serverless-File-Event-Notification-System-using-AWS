@@ -23,7 +23,7 @@ It uses AWS services like **S3, Lambda, DynamoDB, SNS, and CloudWatch** to creat
    - Stores metadata in DynamoDB
 5. 📊 Logs are stored in **CloudWatch**
 6. 📩 Notification is sent via **SNS**
-7. 📧 User receives email alert
+7. 📧 User receives SMS alert
 
 ---
 
@@ -34,7 +34,7 @@ It uses AWS services like **S3, Lambda, DynamoDB, SNS, and CloudWatch** to creat
 - 🗄️ DynamoDB (NoSQL Database)
 - 📩 AWS SNS (Notification Service)
 - 📊 CloudWatch (Monitoring & Logs)
-- 🐍 Python (Boto3 SDK)
+
 
 ---
 
