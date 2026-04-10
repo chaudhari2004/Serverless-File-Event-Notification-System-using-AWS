@@ -9,7 +9,7 @@ It uses AWS services like **S3, Lambda, DynamoDB, SNS, and CloudWatch** to creat
 
 ## 🧠 Architecture Diagram
 
-![AWS Architecture](screenshots/Project WorkFlow.png)
+![AWS Architecture](screenshots/project-workflow.png)
 
 ---
 
